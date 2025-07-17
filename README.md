@@ -18,6 +18,7 @@ Hence,
 **Open MySQL Workbench. Login to Local Instance 80**
 Go to Server -> Data Import -> Import from self contained file -> Choose the file path (.sql file path) -> Start Import
 
+# Project Architecture
 
 /  
 ├── .gitignore  
